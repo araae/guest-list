@@ -1,5 +1,5 @@
-import { GuestList } from "./GuestList";
-import { GuestDetails } from "./GuestDetails";
+import GuestList from "./GuestList";
+import GuestDetails from "./GuestDetails";
 import { useGuests } from "./Context";
 
 //implement conditional if statements to check the page state value
